@@ -4,8 +4,7 @@ const About = () => {
       <h2>About Me</h2>
 
       <p>
-        I am a software engineering student with experience in
-        JavaScript, React, and modern web development tools.
+        I’m a software engineering student with experience in JavaScript and React, though I frequently run into conflicts when collaborating with teammates who prefer older tech stack
       </p>
 
       <h3>Skills</h3>
