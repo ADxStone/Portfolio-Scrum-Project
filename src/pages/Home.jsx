@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <div className="home">
-      <h1>Hi, I’m Roy 👋</h1>
+      <h1>Hi, I’m Brenden 👋</h1>
       <p>
         I’m a software engineering student passionate about building
         clean and functional web applications.
